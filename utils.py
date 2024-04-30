@@ -3,7 +3,6 @@ from eth_account.signers.local import LocalAccount
 import json
 import os
 import logging
-import sys
 from hyperliquid.exchange import Exchange
 from hyperliquid.info import Info
 

@@ -1,9 +1,5 @@
-import logging
-import sys
-import utils
-import queue
 import random
-from trade import Trade
+
 
 ACCOUNTS = {
     "list": []

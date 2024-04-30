@@ -1,10 +1,10 @@
-import ws
+import src.ws as ws
 from hyperliquid.exchange import Exchange
 from hyperliquid.info import Info
 from hyperliquid.utils import constants
 import utils
 import logging
-import manager
+import src.manager as manager
 
 active = {}
 

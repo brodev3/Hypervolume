@@ -1,0 +1,15 @@
+{
+    "accounts" : {
+        "0x5...": {
+            "secret_key": "0x.....",
+            "account_address": "0x5...",
+            "proxy": "http://81.203.109.46:35291:login:pass"
+        }
+    },
+    "service": {
+        "secret_key": "0x.....",
+        "account_address": "0x3...",
+        "proxy": false
+    }
+}
+

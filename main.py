@@ -1,13 +1,12 @@
 import logging
-import sys
 import time
 import threading
 from hyperliquid.utils import constants
-from account import Account
+from src.account import Account
 import utils
-import manager
+import src.manager as manager
 import random
-from trade import Trade
+from src.trade import Trade
 
 COINS = [
     "ETH",

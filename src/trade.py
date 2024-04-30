@@ -1,5 +1,5 @@
 import logging
-import manager
+import src.manager as manager
 import threading
 import queue
 import logging
